@@ -1,0 +1,28 @@
+img{
+    width: 800px;
+    height:auto;
+    border:20px solid black;
+    margin:50px;
+}
+ul{
+    font-size:50px;
+    display: flex;
+    flex-direction: row;
+    border:5px solid black;
+    flex:1;
+}
+h1{
+    margin:25px;
+    padding: 43px;
+    font-weight: bold;
+    font-size:80px;
+    background-color: blue;
+}
+li{
+
+    flex:1;
+    background-color: aqua;
+}
+*{
+    border:10px solid pink;
+}
